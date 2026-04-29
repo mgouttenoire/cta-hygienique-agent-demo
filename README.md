@@ -1,19 +1,21 @@
-# CTA Hygiénique — Agent de dimensionnement
+ CTA Hygiénique — Agent de dimensionnement
 
 > **Quand l'expertise HVAC rencontre l'IA — un outil de dimensionnement CTA hygiénique pensé pour le terrain.**
 
 [![Version](https://img.shields.io/badge/version-15.5-0d7c66)](./CHANGELOG.md)
 [![License](https://img.shields.io/badge/license-Proprietary-blue)](./LICENSE)
-[![Démo](https://img.shields.io/badge/démo-en%20ligne-brightgreen)](https://mgouttenoire.github.io/cta-hygienique-agent-demo/cta_hygienique_agent_v15_5.html)
+[![Démo](https://img.shields.io/badge/démo-sur%20demande-blue)](https://www.linkedin.com/in/mikael-gouttenoire-5ba9b7100/)
 [![Normes](https://img.shields.io/badge/normes-NF%20S%2090--351%20%C2%B7%20EN%201886%20%C2%B7%20ISO%2014644-success)](#normes-respectées)
 
 ---
 
-## 🔗 Démo en ligne
+## 🔗 Démonstration
 
-**👉 [Lancer l'agent dans votre navigateur](https://mgouttenoire.github.io/cta-hygienique-agent-demo/cta_hygienique_agent_v15_5.html)**
+Une **démonstration personnalisée** sur votre cas est disponible sur demande. Je vous montre l'agent en fonctionnement, adapté à un projet de référence proche du vôtre, en visio (30-45 min).
 
-Aucune installation. Aucun compte. L'agent fonctionne dans n'importe quel navigateur moderne (Chrome, Firefox, Safari, Edge).
+**👉 [Demander une démonstration](https://www.linkedin.com/in/mikael-gouttenoire-5ba9b7100/)**
+
+Une version démo publique limitée sera mise en ligne prochainement.
 
 ---
 
@@ -140,7 +142,7 @@ Pour un usage en projet réel, un engagement professionnel formel est requis (mi
 <details>
 <summary><b>L'agent fonctionne-t-il hors-ligne ?</b></summary>
 
-Oui. Le fichier HTML embarque toutes les ressources nécessaires (CSS, JS, librairies, catalogues). Une fois téléchargé, il s'ouvre par double-clic dans n'importe quel navigateur moderne, sans connexion Internet.
+Oui. Le fichier HTML embarque toutes les ressources nécessaires (CSS, JS, librairies, catalogues). Une fois déployé en mission, il s'ouvre par double-clic dans n'importe quel navigateur moderne, sans connexion Internet.
 </details>
 
 <details>
@@ -157,7 +159,7 @@ Le format mono-fichier est aussi adapté à l'archivage en dossier technique de 
 <details>
 <summary><b>Les calculs sont-ils traçables ?</b></summary>
 
-Oui. Chaque résultat est associé à une référence normative et à une formule explicite, exportables en PDF ou Excel. La logique de calcul est documentée dans le code source, accessible depuis n'importe quel navigateur (clic droit → Afficher la source).
+Oui. Chaque résultat est associé à une référence normative et à une formule explicite, exportables en PDF ou Excel. La logique de calcul est documentée et la traçabilité fait partie des livrables de mission.
 </details>
 
 <details>
@@ -173,9 +175,9 @@ Le format mono-fichier offline est volontaire. La plupart des bureaux d'études 
 </details>
 
 <details>
-<summary><b>Et le code source ?</b></summary>
+<summary><b>Comment accéder à l'outil ?</b></summary>
 
-Le code source de l'agent est **propriétaire** (voir [LICENSE](./LICENSE)). Cette démonstration est librement consultable et utilisable à des fins d'évaluation. Pour un usage commercial, une intégration dans un environnement métier, ou un développement sur mesure, contactez-moi.
+L'outil est utilisé dans le cadre des missions de conseil. Une **démonstration personnalisée** sur votre cas est disponible sur demande, par visio (30-45 min). Pour les besoins récurrents, l'intégration de l'outil dans votre environnement métier peut être discutée dans le cadre d'un contrat dédié.
 </details>
 
 ---
@@ -198,8 +200,8 @@ Inclut SheetJS (xlsx.full.min.js v0.18.5) sous licence Apache 2.0.
 
 <div align="center">
 
-**Vous êtes BE, maître d'ouvrage, industriel, et vous avez un projet CTA hygiénique en cours ?**
+**Vous avez un projet CTA hygiénique en cours ? Discutons-en.**
 
-[💬 Me contacter sur LinkedIn](https://www.linkedin.com/in/mikael-gouttenoire-5ba9b7100/)
+[💬 Me contacter sur LinkedIn](https://www.linkedin.com/in/mikael-gouttenoire-5ba9b7100/) · [📅 Demander une démo](https://www.linkedin.com/in/mikael-gouttenoire-5ba9b7100/)
 
 </div>
