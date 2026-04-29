@@ -1,0 +1,140 @@
+COPYRIGHT NOTICE / NOTICE DE DROIT D'AUTEUR
+============================================
+
+Copyright (c) 2026 Mikael Gouttenoire. All rights reserved.
+Tous droits reserves.
+
+Project: CTA Hygienique Agent - Public Demo
+Repository: https://github.com/mgouttenoire/cta-hygienique-agent-demo
+
+
+PROPRIETARY SOFTWARE - DEMONSTRATION VERSION
+=============================================
+
+This repository contains a public demonstration of proprietary software
+developed by Mikael Gouttenoire. The software is made publicly accessible
+solely for the purpose of evaluating its functionality and demonstrating
+the author's professional expertise in HVAC engineering and AI-assisted
+software development.
+
+
+PERMITTED USE / UTILISATION AUTORISEE
+======================================
+
+You are permitted to:
+
+1. View and run the demonstration in a web browser for personal evaluation.
+2. Reference this project as an example of the author's work in academic,
+   editorial, or professional contexts, with appropriate attribution.
+3. Contact the author to discuss commercial licensing, consulting services,
+   or custom development based on this project.
+
+Vous etes autorise a :
+
+1. Consulter et utiliser la demonstration dans un navigateur web a des fins
+   d'evaluation personnelle.
+2. Citer ce projet comme exemple du travail de l'auteur dans un contexte
+   academique, editorial ou professionnel, avec attribution appropriee.
+3. Contacter l'auteur pour discuter de licences commerciales, de prestations
+   de conseil ou de developpements sur mesure bases sur ce projet.
+
+
+PROHIBITED USE / UTILISATION INTERDITE
+=======================================
+
+The following uses are explicitly PROHIBITED without prior written
+authorization from the copyright holder:
+
+1. Copying, redistributing, republishing, or hosting the software or any
+   substantial portion thereof on any platform, server, or repository.
+2. Modifying, adapting, translating, or creating derivative works.
+3. Reverse engineering, decompiling, or extracting business logic for
+   reuse in other products.
+4. Using the software for any commercial purpose, including but not
+   limited to consulting work, internal corporate use, or commercial
+   product offerings.
+5. Removing, altering, or obscuring this copyright notice or any
+   attribution within the software.
+
+Les utilisations suivantes sont expressement INTERDITES sans autorisation
+ecrite prealable du titulaire des droits :
+
+1. Copier, redistribuer, republier ou heberger le logiciel ou toute partie
+   substantielle de celui-ci sur quelque plateforme, serveur ou depot que
+   ce soit.
+2. Modifier, adapter, traduire ou creer des oeuvres derivees.
+3. Proceder a de l'ingenierie inverse, decompiler ou extraire la logique
+   metier pour reutilisation dans d'autres produits.
+4. Utiliser le logiciel a des fins commerciales, y compris mais non
+   limite a des missions de conseil, un usage interne en entreprise ou
+   une offre de produit commercial.
+5. Supprimer, modifier ou occulter cette notice de droit d'auteur ou
+   toute attribution incluse dans le logiciel.
+
+
+THIRD-PARTY COMPONENTS / COMPOSANTS TIERS
+==========================================
+
+This software includes the following third-party libraries:
+
+SheetJS (xlsx.full.min.js) version 0.18.5
+- Author: SheetJS LLC
+- License: Apache License 2.0
+- Source: https://github.com/SheetJS/sheetjs
+- Used for: Excel file generation (XLSX export)
+
+The Apache 2.0 license applies only to the SheetJS library itself.
+Full license text available at: https://www.apache.org/licenses/LICENSE-2.0
+
+The proprietary terms above apply to all original code authored by
+Mikael Gouttenoire (HVAC calculation logic, user interface, business
+rules, normative compliance algorithms, etc.).
+
+
+DISCLAIMER / AVERTISSEMENT
+===========================
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+The demonstration version is provided for evaluation purposes only and
+should NOT be used for actual engineering calculations, design decisions,
+or any production environment without explicit professional engagement
+with the author.
+
+The author makes no representations about the accuracy or completeness
+of the calculations performed by this demonstration. Any use of the
+results without independent professional verification is at the user's
+own risk.
+
+Ce logiciel est fourni "EN L'ETAT", sans garantie d'aucune sorte, expresse
+ou implicite, y compris mais non limite aux garanties de qualite marchande,
+d'adequation a un usage particulier et de non-violation.
+
+La version de demonstration est fournie a des fins d'evaluation uniquement
+et NE DOIT PAS etre utilisee pour des calculs d'ingenierie reels, des
+decisions de conception ou tout environnement de production sans engagement
+professionnel explicite avec l'auteur.
+
+L'auteur ne fait aucune representation quant a l'exactitude ou l'exhaustivite
+des calculs effectues par cette demonstration. Toute utilisation des resultats
+sans verification professionnelle independante est aux risques de
+l'utilisateur.
+
+
+CONTACT / CONTACT
+==================
+
+For licensing inquiries, consulting services, or commercial use:
+Pour toute demande de licence, prestation de conseil ou usage commercial :
+
+Mikael Gouttenoire
+Email: buffets-cinquiemes.7c@icloud.com
+LinkedIn: https://www.linkedin.com/in/mikael-gouttenoire-5ba9b7100/
+GitHub: https://github.com/mgouttenoire
+
+================================================================================
+This license notice must be included in any reference to this software.
+Cette notice de licence doit etre incluse dans toute reference a ce logiciel.
+================================================================================
